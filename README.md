@@ -1,4 +1,4 @@
-Android-Resources
+Android-CourseCurriculum
 =================
 
 
