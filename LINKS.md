@@ -18,6 +18,7 @@ Android Links
 ## Tools 
  - [Genymotion Android Emulator](http://www.genymotion.com/)
  - [JDK v7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+ - [Floobits Pair Programming IntelliJ plugin](https://floobits.com/help/plugins/intellij)
 
 ## Open Source 
  - [Square Android Open Source](http://square.github.io/#android)
