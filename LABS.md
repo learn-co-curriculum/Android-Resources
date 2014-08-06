@@ -15,6 +15,7 @@
 - [ObjectOrientedPeople](https://github.com/flatiron-school-curriculum/Android-ObjectOrientedPeople)
 - [Hashketball](https://github.com/flatiron-school-curriculum/Android-Hashketball)
 - [ExceptionalExceptions](https://github.com/flatiron-school-curriculum/Android-ExceptionalExceptions)
+- [FirstDate](https://github.com/flatiron-school-curriculum/Android-FirstDate)
 
 ##Unit 3: Android
 - [AboutMe](https://github.com/flatiron-school-curriculum/Android-AboutMe)
