@@ -5,6 +5,7 @@ Android Links
 ## Android 
 
  - [Android Developers](http://developer.android.com/index.html)
+ - [Android Code Style Guidelines](http://source.android.com/source/code-style.html#follow-field-naming-conventions)
 
 ##Design 
 
