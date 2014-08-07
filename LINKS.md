@@ -22,6 +22,7 @@ Android Links
 - [MISSQL SQL Tutorial made by Flatiron Alums](http://missqlcommand.com/) 
 
 ## Tools 
+ - [Android Studio](https://developer.android.com/sdk/installing/studio.html)
  - [Genymotion Android Emulator](http://www.genymotion.com/)
  - [JDK v7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
  - [Floobits Pair Programming IntelliJ plugin](https://floobits.com/help/plugins/intellij)
