@@ -20,6 +20,7 @@ Android Links
 
 - [Team Treehouse SQLite Android](http://teamtreehouse.com/library/android-data-storage-with-sqlite)
 - [MISSQL SQL Tutorial made by Flatiron Alums](http://missqlcommand.com/) 
+- [SQLite ADB Shell instructions](http://developer.android.com/tools/help/sqlite3.html) 
 
 ## Tools 
  - [Android Studio](https://developer.android.com/sdk/installing/studio.html)
