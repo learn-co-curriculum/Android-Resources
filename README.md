@@ -53,7 +53,7 @@ Android-CourseCurriculum
   - JSON Parsing 
   - Memory cached arrays for JSON parsed Data 
   - Open source Libraries with Gradle 
-  - Volley Networking Library
+  - Retrofit Networking Library
 
 ##Unit 7: Persistence 
 
