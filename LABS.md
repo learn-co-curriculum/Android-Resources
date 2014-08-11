@@ -33,6 +33,7 @@
 ##Unit 6: API’s 
 
 - [GithubRepoLister](https://github.com/flatiron-school-curriculum/Android-GithubRepoLister)
+- [GithubRepoLister-Retrofit](https://github.com/flatiron-school-curriculum/Android-GithubRepoLister-Retrofit)
 
 ##Unit 7: Persistence 
 - [sql-book](https://github.com/flatiron-school-curriculum/sql-book)
