@@ -35,7 +35,7 @@
 - [GithubRepoLister](https://github.com/flatiron-school-curriculum/Android-GithubRepoLister)
 
 ##Unit 7: Persistence 
-
+- [sql-book](https://github.com/flatiron-school-curriculum/sql-book)
 
 ##Unit 8: Google Play and Google Cloud Services 
   
