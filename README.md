@@ -26,7 +26,8 @@ Android-CourseCurriculum
   - Android Manifest xml file 
   - src / res / gen directory 
   - Intro to Activities 
-  - MVC 
+  - MVC
+  - Adapters
 
 ##Unit 4: Views
 
