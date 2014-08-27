@@ -1,5 +1,5 @@
-Android-CourseCurriculum
-=================
+Android For Developers Curriculum
+=================================
 
 
 ##Prework: Environment Configuration and Git
