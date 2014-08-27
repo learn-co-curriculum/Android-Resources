@@ -10,7 +10,7 @@ Android-CourseCurriculum
   - Install and configure Git  
   - Explain unit testing 
 
-##United 2: Java 
+##Unit 2: Java 
 
   - Collections, Iteration, OOP, Inheritance, Exceptions, Conditionals
   - Types, variables, operators 
