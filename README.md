@@ -62,6 +62,7 @@ Android-CourseCurriculum
   - SQLite 
   - Loaders, Loader Managers, AsyncTaskLoader, ExecutorServiceLoader
   - Content Providers
+
 ##Unit 7: Advanced Intents 
   - Allow apps services' to be used by other applications
   
