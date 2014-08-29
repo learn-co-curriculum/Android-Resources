@@ -1,6 +1,7 @@
 Android For Developers Curriculum
 =================================
 
+[Detailed Curriculum Link](https://www.icloud.com/iw/#numbers/BAIWTQ6NG3XZjMGy3BiBYeLpyLXvNc6QyeaF/Android_Curriculum_Syllabus_2)
 
 ##Prework: Environment Configuration and Git
 
