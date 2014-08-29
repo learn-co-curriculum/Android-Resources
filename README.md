@@ -1,8 +1,8 @@
-Android-CourseCurriculum
-=================
+Android For Developers Curriculum
+=================================
 
 
-##Unit 1: Environment Configuration and Git
+##Prework: Environment Configuration and Git
 
   - Install and configure Android Studio
   - Install GenyMotion and VirtualBox 
@@ -10,7 +10,7 @@ Android-CourseCurriculum
   - Install and configure Git  
   - Explain unit testing 
 
-##United 2: Java 
+##Unit 1: Java & OOP 
 
   - Collections, Iteration, OOP, Inheritance, Exceptions, Conditionals
   - Types, variables, operators 
@@ -21,14 +21,15 @@ Android-CourseCurriculum
   - Interfaces, inheritance, file i/o 
   - Exception handling (Try, Catch, Finally) 
 
-##Unit 3: Android
+##Unit 2: Intro to Android SDK
 
   - Android Manifest xml file 
   - src / res / gen directory 
   - Intro to Activities 
-  - MVC 
+  - MVC
+  - Adapters
 
-##Unit 4: Views
+##Unit 3: Intro to Views and Fragments
 
   - Creating String Resource Files 
   - XML Layout 
@@ -38,13 +39,13 @@ Android-CourseCurriculum
   - MVC
   - 9 patch images 
 
-##Unit 5: Multi-Threading 
+##Unit 4: Flexible UI
 
   - Java Threads 
   - AsyncTask
   - Loopers, handlers and handler threads 
 
-##Unit 6: API’s 
+##Unit 5: API’s and Concurrency 
 
   - Intro to REST API’s and the Internet 
   - HTTPURLConnection 
@@ -53,33 +54,26 @@ Android-CourseCurriculum
   - JSON Parsing 
   - Memory cached arrays for JSON parsed Data 
   - Open source Libraries with Gradle 
-  - Volley Networking Library
+  - Retrofit Networking Library
 
-##Unit 7: Persistence 
+##Unit 6: Persistence
 
   - Saving to local JSON 
-  - SQL Lite 
+  - SQLite 
   - Loaders, Loader Managers, AsyncTaskLoader, ExecutorServiceLoader
+  - Content Providers
 
+##Unit 7: Advanced Intents 
+  - Allow apps services' to be used by other applications
+  
 ##Unit 8: Google Play and Google Cloud Services 
   - Distributing apps via Google Play 
   - Preparing APK for Google Play 
 
-##Unit 9: Debugging 
+##Unit 9: Advanced Testing and Debugging 
   - ADB Logs 
   - Logcat
   - TraceView 
 
-##Unit 10: Advanced Design Patterns 
+##Unit 10: Final Project
 
-  - Singleton Pattern 
-  - Holder Pattern 
-  - Facade Pattern 
-  - Builder Pattern 
-
-##Unit 11: Background Services 
-
-
-##Edge Topics: 
-
-  - Java Bytecode -> Dalvik Bytecode -> APK Virtual Machine to run on multiple devices.  
