@@ -99,6 +99,23 @@ else {
 
 ```
 ---
+
+#Methods
+ 
+##Instance Method
+```java 
+	private void grow(int inches) {
+		//can access both static and instance variables and methods
+	}
+```
+
+##Static Method
+```java
+	private static Time currentTime(){
+	return Time.now(); //Only have access to static variables and methods 
+}
+```
+---
 #Constructor
 
 ```java
