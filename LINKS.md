@@ -16,6 +16,7 @@ Android Links
 ## Java
 
  - [Java Cheat Sheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
+ - [Oracle Java Tutorials](http://docs.oracle.com/javase/tutorial/)
 
 ## SQL
 
