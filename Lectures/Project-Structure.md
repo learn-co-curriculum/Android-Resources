@@ -31,3 +31,11 @@ res/
 
 ---
 
+# Activities
+
+- The primary visual component for an application 
+- An application can have many activities
+- Register capabilities in the Manifest 
+- Any activity can serve as an entry point for an application (if registered as such in the Manifest)
+
+
