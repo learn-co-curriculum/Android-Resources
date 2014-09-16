@@ -6,6 +6,7 @@ Android Links
 
  - [Android Developers](http://developer.android.com/index.html)
  - [Android Code Style Guidelines](http://source.android.com/source/code-style.html#follow-field-naming-conventions)
+ - [Android for iOS Developers](http://www.objc.io/issue-11/)
 
 ##Design 
 
