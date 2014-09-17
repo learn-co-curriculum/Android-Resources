@@ -33,6 +33,13 @@ Android Links
 ## Open Source 
  - [Square Android Open Source](http://square.github.io/#android)
 
+## Blogs / Newsletters 
+ - [Android Weekly](http://androidweekly.net/)
+ - [Android UI/UX](http://androiduiux.com/)
+ - [Cyril Mottier](http://cyrilmottier.com/)
+ - [Android Developers Blog](http://android-developers.blogspot.com/)
+ - [Android Hive](http://www.androidhive.info/)
+
 ## Books 
  - [Big Nerd Ranch](http://www.bignerdranch.com/we-write/android-programming.html)
  - [Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
