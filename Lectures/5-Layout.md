@@ -77,7 +77,7 @@ Access child elements using findViewById()method
 
 ## Resources 
 
-* [Layout Resourece](http://developer.android.com/guide/topics/resources/layout-resource.html)
+* [Layout Resource](http://developer.android.com/guide/topics/resources/layout-resource.html)
 * [Layouts](http://developer.android.com/guide/topics/ui/declaring-layout.html)
 * [Relative Layout](http://developer.android.com/guide/topics/ui/layout/relative.html)
 * [Linear Layout](http://developer.android.com/guide/topics/ui/layout/linear.html)
