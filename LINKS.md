@@ -38,6 +38,7 @@ Android Links
  - [Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
  - [Android Design Patterns](http://www.amazon.com/Android-Design-Patterns-Interaction-Developers/dp/1118394151)
  - [Head First Java](http://www.amazon.com/gp/product/0596009208/ref=s9_simh_gw_p14_d1_i2?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-2&pf_rd_r=1WRBJ54ZSG7399XFMJNJ&pf_rd_t=101&pf_rd_p=1688200382&pf_rd_i=507846)
+ - [Professional Android 4 Application Development](http://www.amazon.com/Professional-Android-4-Application-Development/dp/1118102274)
 
 ## E-Learning Resources 
  - [Udacity](https://www.udacity.com/course/ud853) 
