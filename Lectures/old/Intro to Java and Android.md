@@ -1,17 +1,46 @@
-# [fit]Java
+# [fit]Android for Developers Workshop
 
 ----
 
-## Today
+# [fit]The rundown
 
- * Objects
- * Data Types / Collections
- * Iteration
- * Selection
- * Operators 
- * 
+- Why Google Chose Java and how it fits into the Android SDK 
+- A quick Java crash course
+- Building an Android MadLibs app
 
------
+----
+
+## [fit]Java
+
+----
+
+## A Little History 
+
+----
+
+##1991
+
+^The original reference implementation of Java was developed by Sun in 1991
+^C first appeard in 1972
+^Objective-C in 1983
+^Ruby in 1995
+
+----
+
+##James Gosling: The Father of Java
+![](http://nighthacks.com/roller/jag/resource/JAG2001.jpg)
+
+^Credited with having invented the Java programming language while employed at Sun Microsystems. 
+
+----
+
+## Sun Microsystems
+
+^Acquired by Oracle in 2010
+^Creator of interprise software solutions and the Java Programming language
+^Explains Java's Stranglehold over Server Side Enterprise Development
+
+----
 
 ## Java's Big Idea
 
@@ -288,6 +317,117 @@ public class Cat implements Animal {
 ```
 
 ----
+
+## [fit]This is how we FizzBuzz
+
+--- 
+
+```java
+//FizzBuzz.java
+
+public static void main(String[] args) {
+
+    for (int x = 1; x < 100; x++){
+        if (x % 15 == 0){
+            System.out.println("FizzBuzz"); //The Java way 
+            //Log.d("Tag", "FizzBuzz"); The Android way
+        }
+        else if (x % 5 == 0){
+            System.out.println("Buzz");
+        }
+        else if (x % 3 == 0){
+            System.out.println("Fizz");
+        }
+        else {
+            System.out.println(Integer.toString(x));
+        }
+    }
+
+}
+
+```
+
+---
+
+## [fit]Android
+
+^Move through Android quickly and get to building
+
+----
+
+## Android Studio
+
+^The future of Android Development
+Still in Beta, but very stable 
+Bring your plugins and environment configurations from any Jetbrains ide
+
+
+----
+
+## Java
+^Java was a natural fit for Android. 
+^Open source 
+^Performant
+^familiar
+^concurrent
+
+----
+
+#[fit]3 Key Components of the Android SDK
+
+----
+
+## Android Libraries
+^Collection of Google Libraries built on top of Java 
+
+----
+
+Layout XML
+
+----
+
+## Resources
+^Allows us to access application resources that aren't java code 
+Drawables, Strings, Localization files
+
+----
+
+## Open Source and Gradle
+
+^Android Studio allows for open source projects to be added easily through build.gradle file
+Maven central provides a repository for open source projects
+
+----
+
+## Android Emulator
+
+^Not a simulator 
+emulate many different phones and configurations
+
+----
+
+## But it's really bad 
+
+----
+
+## Genymotion
+
+----
+
+## [fit]Madlibs
+^You provide the app with different types of words, app builds a story
+Let's Build
+
+----
+
+## Steps
+
+  * Compose the User Interface XML Files
+  * Create a model for a Madlib 
+  * Connect to web service
+  * Update the User Interface from the Activity
+
+
 
 
 

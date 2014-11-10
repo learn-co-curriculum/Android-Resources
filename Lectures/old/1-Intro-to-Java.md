@@ -1,114 +1,27 @@
-# [fit]Java
+# Java Primer 
 
-----
+![](http://media.scraphacker.com/2011/10/IMG_8557-WM1.jpg)
 
-## Today
-
- * Objects
- * Data Types / Collections
- * Iteration
- * Selection
- * Operators 
- * 
-
------
-
-## Java's Big Idea
-
-----
-
-##Virtual Machine with C style notation 
-
-----
-
-## **W**rite **O**nce **R**un **A**nywhere 
-
-----
-
-## Five Primary Goals of the Java Language
-
-
-1. It should be "simple, object-oriented and familiar"
-2. It should be "robust and secure"
-3. It should be "architecture-neutral and portable"
-4. It should execute with "high performance"
-5. It should be "interpreted, threaded, and dynamic"
-
-----
-
-##Concurrent and threaded from the beginning
-
-----
-
-##By the Numbers
-
-* 930 million JRE Downloads every year 
-* 3 billion Mobile Phones run Java
-* 9 million Java Developers in the world
-* #2 (behind JavaScript) Github new Repos created with 283354
-
-----
-
-##[fit]Code!!!!
-
-----
-
-```java
-// Hello World
-
-package com.flatironschool;
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
-}
-
-```
-
-^ public = accessor 
-  static defines the method as a class method 
-  void is the return type 
-  main is method name 
-  String[] args is a method parameter
-
-----
-
+---
 #Primitive Data Types
 
 ```java 
-//All primitives have Object Wrappers 
+float x = 20.25; 
 
-float x = 20.25; //So if I need a float 'Object' I would use Float x = 20.25; 
+boolean x = true;
 
-boolean x = true; // Or Boolean x = true; 
+char x = ‘x’; 
 
-char x = ‘x’; // Or Character x = 'x'; 
+byte x = 0x03; 
 
-byte x = 0x03; // Or Byte x = 0x03; 
+short x = 15;
 
-short x = 15; // Or Short x = 15; 
+int x = 20;
 
-int x = 20; // Or Integer x = 20; 
-
-long x = 9,274,387,302 // Or Long x = 9,274,387,302; 
+long x = 9,274,387,302
 ```
 
-----
-
-#Data Structures 
-
-```java
-
-List<String>myList = new ArrayList<String>(); //List<t>
-Map<String, String>myMap = new HashMap<String, String>(); //HashMap<t,t>
-String[] myArray = new String[10]; //String array with a capacity of 10
-String[] myArray = {"string1", "string2", "string3"}; //String array with literal  
-
-```
-
-----
-
+---
 #Variables
 
 ```java
@@ -130,9 +43,6 @@ String[] myArray = {"string1", "string2", "string3"}; //String array with litera
   * **Equality:** ==, != 
   * **Logical AND:** &&
   * **Logical OR:** ||
-
-^Who in the room has taken a math class before?
-Next slide
 
 ---
 #Control Flow
@@ -168,17 +78,13 @@ else {
 ---
 #Iteration
 
-```java
+**For Loop:** `for (int i = 0; i < 100; i++){// loop body}`
 
-for (int i = 0; i < 100; i++){} // for loop
+**For-each Loop:** `for (int i : myArray){// loop body}`
 
-for (Integer i : myArray){} //foreach loop
+**While Loop:** `while (true){//loop body}`
 
-while (true){} //while loop
-
-do {}while(true) //do while loop
-
-```
+**Do-While Loop:** `do {//loop body}while(true)`
 
 ---
 #Class
@@ -196,14 +102,14 @@ do {}while(true) //do while loop
 
 #Methods
  
-###Instance Method
+##Instance Method
 ```java 
 	private void grow(int inches) {
 		//can access both static and instance variables and methods
 	}
 ```
 
-###Static Method
+##Static Method
 ```java
 	private static Time currentTime(){
 	return Time.now(); //Only have access to static variables and methods 
@@ -286,8 +192,4 @@ public class Cat implements Animal {
 	} 
 }
 ```
-
-----
-
-
-
+---
