@@ -135,6 +135,8 @@ public Cursor selectPerson(String name){
 
 #Update
 
+```java
+
 public int updatePerson(Person person){
         String whereClause = PersonOpenHelper.COLUMN_NAME + " == ?";
 
@@ -153,6 +155,7 @@ public int updatePerson(Person person){
         
         return rowsupdated;
     }
+```
 
 ---
 
@@ -186,12 +189,12 @@ public int delete(int personID){
         mPeople.clear();
         cursor.moveToFirst();
         while (!cursor.isAfterLast()){
-            int i = cursor.getColumnIndex(PeopleOpenHelper.COLUMN_TEMPERATURE);
-            double temperature = cursor.getDouble(i);
-            mPeople.add(new BigDecimal(people, MathContext.DECIMAL32));
+            int i = cursor.getColumnIndex(PeopleOpenHelper.COLUMN_NAME);
+            String name = cursor.getString(i);
+            mPeople.add(new person(name));
             cursor.moveToNext();
         }
-        ArrayAdapter<BigDecimal>adapter = new ArrayAdapter<BigDecimal>(this, R.layout.simple_list_item, mPeople);
+        ArrayAdapter<Person>adapter = new ArrayAdapter<Person>(this, R.layout.simple_list_item, mPeople);
 
         setListAdapter(adapter);
     }
