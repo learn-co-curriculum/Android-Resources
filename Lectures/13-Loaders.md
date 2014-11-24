@@ -16,6 +16,14 @@
 
 ---
 
+#Subclass AsyncTaskLoader instead of CursorLoader
+
+---
+
+# A note about Content Providers
+
+---
+
 #[fit]Code
 
 ---
