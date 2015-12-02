@@ -78,3 +78,5 @@ Android For Developers Curriculum
 
 ##Unit 10: Final Project
 
+
+<a href='https://learn.co/lessons/Android-Resources' data-visibility='hidden'>View this lesson on Learn.co</a>
